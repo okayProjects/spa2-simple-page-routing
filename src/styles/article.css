@@ -1,0 +1,9 @@
+.home h3 {
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.home p {
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
